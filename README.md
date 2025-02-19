@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ananya Bhide.
-- 🌱 I’m currently learning BE-E&C
+- 🌱 I’m currently working as a Software Developer.
 - 📫 You can reach me at ananyabhide06@gmail.com
 
 <!---
